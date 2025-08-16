@@ -1,0 +1,6 @@
+@ThanachartApi_HostAddress = http://localhost:5080
+
+GET {{ThanachartApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
